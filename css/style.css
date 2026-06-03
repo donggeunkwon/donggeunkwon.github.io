@@ -19,7 +19,7 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; font-size: 110%; }
+html { scroll-behavior: smooth; font-size: 110%; touch-action: manipulation; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 
 body {
