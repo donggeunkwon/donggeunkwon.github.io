@@ -1,0 +1,131 @@
+{
+  "ownerName": "D. Kwon",
+  "publications": [
+    {
+      "year": 2025,
+      "authors": "D. Kwon, S. Hong",
+      "title": "Side-Channel Attack on ARADI in Non-Profiling Scenarios",
+      "venue": "IEEE Access",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
+      "year": 2025,
+      "authors": "D. Kwon, D. Hong, J. Sung, S. Hong",
+      "title": "Recovering S-Box Design Structures and Quantifying Distances Between S-Boxes Using Deep Learning",
+      "venue": "International Conference on Applied Cryptography and Network Security (ACNS)",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
+      "year": 2025,
+      "authors": "J. Jang, M. Lee, D. Kwon, S. Hong, S. Kim, S. Lee",
+      "title": "Efficient Polynomial Multiplication for HQC on ARM Cortex-M4",
+      "venue": "Cryptology ePrint Archive",
+      "note": null,
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2025,
+      "authors": "I. Kim, S. Kim, S. Kim, D. Kwon, H. Shin, D. Lee, D. Hong, J. Sung, S. Hong",
+      "title": "Towards Optimal Differential Attacks on FLY and PIPO",
+      "venue": "Cryptology ePrint Archive",
+      "note": null,
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2025,
+      "authors": "M. Lee, H. Shin, I. Kim, S. Kim, D. Kwon, D. Hong, J. Sung, S. Hong",
+      "title": "Hash Table Method for Data Search in Differential Cryptanalysis",
+      "venue": "Journal of The Korea Institute of Information Security and Cryptology (JKIISC)",
+      "note": "in Korean",
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2024,
+      "authors": "S. Kim, M. Shin, H. Shin, I. Kim, S. Kim, D. Kwon, D. Hong, J. Sung, S. Hong",
+      "title": "Differential Factors Revisited: A Sufficient Condition for the Practical Use of Differential Factors",
+      "venue": "IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences",
+      "note": null,
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2024,
+      "authors": "S. Kim, M. Shin, S. Kim, H. Shin, I. Kim, D. Kwon, D. Lee, S. Kim, D. Hong, et al.",
+      "title": "Redefining Security in Shadow Cipher for IoT Nodes: New Full-Round Practical Distinguisher and the Infeasibility of Key-Recovery Attacks",
+      "venue": "IEEE Internet of Things Journal",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
+      "year": 2024,
+      "authors": "M. Shin, S. Kim, H. Shin, I. Kim, S. Kim, D. Kwon, D. Hong, J. Sung, S. Hong",
+      "title": "Efficient CHAM-Like Structures on General-Purpose Processorswith Changing Order of Operations",
+      "venue": "Journal of The Korea Institute of Information Security and Cryptology (JKIISC)",
+      "note": "in Korean",
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2023,
+      "authors": "S. Kim, M. Shin, S. Kim, H. Shin, I. Kim, D. Kwon, D. Lee, S. Kim, D. Hong, et al.",
+      "title": "Shining Light on the Shadow: Full-Round Practical Distinguisher for Lightweight Block Cipher Shadow",
+      "venue": "Cryptology ePrint Archive",
+      "note": null,
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2023,
+      "authors": "H. Shin, G. Kim, M. Lee, I. Kim, S. Kim, D. Kwon, S. Kim, S.C. Seo, S. Hong",
+      "title": "Efficient Implementation of NIST LWC SPARKLE on 64-Bit ARMv8",
+      "venue": "Journal of The Korea Institute of Information Security and Cryptology (JKIISC)",
+      "note": "in Korean",
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2022,
+      "authors": "D. Kwon, S. Hong, H. Kim",
+      "title": "Optimizing Implementations of Non-Profiled Deep Learning-Based Side-Channel Attacks",
+      "venue": "IEEE Access",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
+      "year": 2021,
+      "authors": "D. Kwon, H. Kim, S. Hong",
+      "title": "Non-Profiled Deep Learning-Based Side-Channel Preprocessing with Autoencoders",
+      "venue": "IEEE Access",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
+      "year": 2020,
+      "authors": "S.C. Seo, D. Kwon",
+      "title": "Highly Efficient SCA-Resistant Binary Field Multiplication on 8-Bit AVR Microcontrollers",
+      "venue": "Applied Sciences",
+      "note": null,
+      "featured": false,
+      "link": null
+    },
+    {
+      "year": 2019,
+      "authors": "D. Kwon, S. Jin, H. Kim, S. Hong",
+      "title": "Improving Non-Profiled Side-Channel Analysis Using Auto-Encoder Based Noise Reduction Preprocessing",
+      "venue": "Journal of The Korea Institute of Information Security and Cryptology (JKIISC)",
+      "note": "in Korean",
+      "featured": false,
+      "link": null
+    }
+  ]
+}
