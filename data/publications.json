@@ -2,6 +2,15 @@
   "ownerName": "D. Kwon",
   "publications": [
     {
+      "year": 2026,
+      "authors": "J. Jang, M. Lee, D. Kwon, S. Hong, S. Kim, S. Lee",
+      "title": "Efficient Polynomial Multiplication for HQC on ARM Cortex-M4",
+      "venue": "IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES)",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
       "year": 2025,
       "authors": "D. Kwon, S. Hong",
       "title": "Side-Channel Attack on ARADI in Non-Profiling Scenarios",
@@ -17,15 +26,6 @@
       "venue": "International Conference on Applied Cryptography and Network Security (ACNS)",
       "note": null,
       "featured": true,
-      "link": null
-    },
-    {
-      "year": 2025,
-      "authors": "J. Jang, M. Lee, D. Kwon, S. Hong, S. Kim, S. Lee",
-      "title": "Efficient Polynomial Multiplication for HQC on ARM Cortex-M4",
-      "venue": "Cryptology ePrint Archive",
-      "note": null,
-      "featured": false,
       "link": null
     },
     {
@@ -97,7 +97,7 @@
       "title": "Optimizing Implementations of Non-Profiled Deep Learning-Based Side-Channel Attacks",
       "venue": "IEEE Access",
       "note": null,
-      "featured": true,
+      "featured": false,
       "link": null
     },
     {
