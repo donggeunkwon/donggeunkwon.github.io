@@ -1,0 +1,44 @@
+{
+  "groups": [
+    {
+      "category": "Program Committee Member",
+      "items": [
+        {
+          "when": "2026",
+          "title": "WISA 2026",
+          "detail": "World Conference on Information Security Applications"
+        }
+      ]
+    },
+    {
+      "category": "Reviewer",
+      "items": [
+        {
+          "when": "2026",
+          "title": "IEEE Internet of Things Journal",
+          "detail": null
+        },
+        {
+          "when": "2026",
+          "title": "Journal of King Saud University - Computer and Information Sciences",
+          "detail": null
+        },
+        {
+          "when": "2026",
+          "title": "Cluster Computing",
+          "detail": "Springer"
+        },
+        {
+          "when": "2026",
+          "title": "Machine Learning",
+          "detail": "Springer"
+        },
+        {
+          "when": "2025, 2026",
+          "title": "The Journal of Supercomputing",
+          "detail": "Springer"
+        }
+      ]
+    }
+  ]
+}

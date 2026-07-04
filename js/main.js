@@ -60,7 +60,7 @@
     });
   }, { threshold: 0.35 });
 
-  document.querySelectorAll('section[id]').forEach(s => {
+  document.querySelectorAll('.section[id]').forEach(s => {
     if (navLinksMap[s.id]) navIO.observe(s);
   });
 
@@ -140,6 +140,30 @@
       })
       .catch(() => {
         projContainer.innerHTML = '<p style="color:var(--ink-3)">Failed to load projects.</p>';
+      });
+  }
+
+  // ── Load professional services ──
+  const svcContainer = document.getElementById('service-list');
+  if (svcContainer) {
+    const basePath = svcContainer.dataset.basePath || '.';
+    fetch(`${basePath}/data/services.json`)
+      .then(r => r.json())
+      .then(data => {
+        let html = '';
+        (data.groups || []).forEach(group => {
+          html += `<h3 class="service-sub">${group.category}</h3>`;
+          html += '<ul class="cv-list">';
+          (group.items || []).forEach(item => {
+            const detailHtml = item.detail ? `<p>${item.detail}</p>` : '';
+            html += `<li><span class="when">${item.when}</span><div class="what"><h4>${item.title}</h4>${detailHtml}</div></li>`;
+          });
+          html += '</ul>';
+        });
+        svcContainer.innerHTML = html;
+      })
+      .catch(() => {
+        svcContainer.innerHTML = '<p style="color:var(--ink-3)">Failed to load services.</p>';
       });
   }
 
