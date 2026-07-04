@@ -320,6 +320,26 @@ header.scrolled { border-bottom-color: var(--line); }
 .service-sub:first-of-type { margin-top: 0; }
 
 
+/* ── Compact inline service list (e.g. Reviewer) ── */
+
+.service-inline {
+  list-style: none;
+  font-size: .9rem;
+  color: var(--ink);
+  line-height: 1.85;
+}
+
+.service-inline li { display: inline; }
+
+.service-inline li:not(:last-child)::after {
+  content: "\00B7";
+  color: var(--ink-3);
+  margin: 0 .45rem;
+}
+
+.service-inline .svc-meta { color: var(--ink-3); font-size: .85rem; }
+
+
 /* ── Research Projects ── */
 
 .project-item {
@@ -629,6 +649,9 @@ footer {
   .cv-list .when { color: #000 !important; font-size: 9pt; }
   .cv-list .what h4 { font-size: 9.8pt; }
   .cv-list .what p { font-size: 9pt; }
+
+  .service-inline { font-size: 9.3pt; line-height: 1.5; }
+  .service-inline .svc-meta { color: #444 !important; }
 
   .project-item { padding: 4pt 0; break-inside: avoid; }
 

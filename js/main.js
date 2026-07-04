@@ -153,12 +153,21 @@
         let html = '';
         (data.groups || []).forEach(group => {
           html += `<h3 class="service-sub">${group.category}</h3>`;
-          html += '<ul class="cv-list">';
-          (group.items || []).forEach(item => {
-            const detailHtml = item.detail ? `<p>${item.detail}</p>` : '';
-            html += `<li><span class="when">${item.when}</span><div class="what"><h4>${item.title}</h4>${detailHtml}</div></li>`;
-          });
-          html += '</ul>';
+          if (group.compact) {
+            html += '<ul class="service-inline">';
+            (group.items || []).forEach(item => {
+              const meta = item.detail ? ` <span class="svc-meta">(${item.detail})</span>` : '';
+              html += `<li>${item.title}${meta}</li>`;
+            });
+            html += '</ul>';
+          } else {
+            html += '<ul class="cv-list">';
+            (group.items || []).forEach(item => {
+              const detailHtml = item.detail ? `<p>${item.detail}</p>` : '';
+              html += `<li><span class="when">${item.when}</span><div class="what"><h4>${item.title}</h4>${detailHtml}</div></li>`;
+            });
+            html += '</ul>';
+          }
         });
         svcContainer.innerHTML = html;
       })

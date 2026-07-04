@@ -12,29 +12,25 @@
     },
     {
       "category": "Reviewer",
+      "compact": true,
       "items": [
         {
-          "when": "2026",
           "title": "IEEE Internet of Things Journal",
           "detail": null
         },
         {
-          "when": "2026",
           "title": "Journal of King Saud University - Computer and Information Sciences",
-          "detail": null
+          "detail": "Springer"
         },
         {
-          "when": "2026",
           "title": "Cluster Computing",
           "detail": "Springer"
         },
         {
-          "when": "2026",
           "title": "Machine Learning",
           "detail": "Springer"
         },
         {
-          "when": "2025, 2026",
           "title": "The Journal of Supercomputing",
           "detail": "Springer"
         }
