@@ -4,15 +4,55 @@
       "period": "2026 - 2027",
       "title": "Research on Physical Attack Analysis and Countermeasures for Secure PQC Implementation and Development of AI-based Automated Evaluation Solutions",
       "role": "Principal Investigator",
-      "funder": "National Research Foundation of Korea (NRF)",
-      "description": ""
+      "funder": "National Research Foundation of Korea (NRF)"
     },
     {
       "period": "2026 - 2027",
       "title": "Research Grant for Newly Appointed Faculty",
       "role": "Principal Investigator",
-      "funder": "Korean Institute of Communications and Information Sciences (KICS)",
-      "description": ""
+      "funder": "Korean Institute of Communications and Information Sciences (KICS)"
+    },
+    {
+      "period": "2022 - 2024",
+      "title": "Development of Physical Channel Vulnerability-based Attacks and its Countermeasures for Reliable On-Device Deep Learning Accelerator Design",
+      "role": null,
+      "funder": "Institute of Information & Communications Technology Planning & Evaluation (IITP)"
+    },
+    {
+      "period": "2020 - 2024",
+      "title": "Development of SCR-Friendly Symmetric Key Cryptosystem and Its Application Modes",
+      "role": null,
+      "funder": "Institute of Information & Communications Technology Planning & Evaluation (IITP)"
+    },
+    {
+      "period": "2021 - 2024",
+      "title": "Military Crypto Research Center",
+      "role": null,
+      "funder": "Agency for Defense Development"
+    },
+    {
+      "period": "2021 - 2023",
+      "title": "Cryptographic Algorithm Development",
+      "role": null,
+      "funder": "Samsung SDS Co., Ltd."
+    },
+    {
+      "period": "2020 - 2021",
+      "title": "Development of an Efficient Isogeny-Based Public Key Cryptography on Various Computational Environments",
+      "role": null,
+      "funder": "National Research Foundation of Korea"
+    },
+    {
+      "period": "2020 - 2021",
+      "title": "Development of Quantum Communication Technologies for Ultimate Security",
+      "role": null,
+      "funder": "Institute of Information & Communications Technology Planning & Evaluation (IITP)"
+    },
+    {
+      "period": "2018 - 2020",
+      "title": "Algorithm-Specific Implementation Methods Against Non-Invasive Side-Channel Attacks",
+      "role": null,
+      "funder": "National Security Research Institute (NSR)"
     }
   ]
 }

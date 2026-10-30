@@ -1,38 +1,22 @@
 {
   "groups": [
     {
+      "category": "Local Arrangement Chairs",
+      "items": [
+        {
+          "when": "2026",
+          "title": "FSP 2026",
+          "detail": "International Workshop on Future Security and Privacy"
+        }
+      ]
+    },
+    {
       "category": "Program Committee Member",
       "items": [
         {
           "when": "2026",
           "title": "WISA 2026",
           "detail": "World Conference on Information Security Applications"
-        }
-      ]
-    },
-    {
-      "category": "Reviewer",
-      "compact": true,
-      "items": [
-        {
-          "title": "IEEE Internet of Things Journal",
-          "detail": null
-        },
-        {
-          "title": "Journal of King Saud University - Computer and Information Sciences",
-          "detail": "Springer"
-        },
-        {
-          "title": "Cluster Computing",
-          "detail": "Springer"
-        },
-        {
-          "title": "Machine Learning",
-          "detail": "Springer"
-        },
-        {
-          "title": "The Journal of Supercomputing",
-          "detail": "Springer"
         }
       ]
     }

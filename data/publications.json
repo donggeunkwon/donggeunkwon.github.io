@@ -2,6 +2,15 @@
   "ownerName": "D. Kwon",
   "publications": [
     {
+      "year": 2027,
+      "authors": "J. Jang, H. Shin, S. Kim, S. Hong, D. Kwon",
+      "title": "Optimizing Polynomial Multiplication and Fixed-Weight Sampling for HQC on ARM Cortex-M4",
+      "venue": "IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES)",
+      "note": null,
+      "featured": true,
+      "link": null
+    },
+    {
       "year": 2026,
       "authors": "J. Jang, M. Lee, D. Kwon, S. Hong, S. Kim, S. Lee",
       "title": "Efficient Polynomial Multiplication for HQC on ARM Cortex-M4",
